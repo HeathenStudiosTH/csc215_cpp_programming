@@ -1,0 +1,4 @@
+﻿  pointers.cpp
+F:\GitHub_Repository\csc215_cpp_programming\Week4\pointers\pointers\pointers.cpp(62,9): warning C4101: 'die1': unreferenced local variable
+F:\GitHub_Repository\csc215_cpp_programming\Week4\pointers\pointers\pointers.cpp(63,9): warning C4101: 'die2': unreferenced local variable
+  pointers.vcxproj -> F:\GitHub_Repository\csc215_cpp_programming\Week4\pointers\Debug\pointers.exe
