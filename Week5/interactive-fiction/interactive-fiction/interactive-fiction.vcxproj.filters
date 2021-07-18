@@ -15,39 +15,33 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="interactive-fiction.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="mission.cpp">
+    <ClCompile Include="functions.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="start-game.cpp">
+    <ClCompile Include="blackjack.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="level-2.cpp">
+    <ClCompile Include="source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="level-3.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="final-level.cpp">
+    <ClCompile Include="banner.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="mission.h">
+    <ClInclude Include="functions.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="start-game.h">
+    <ClInclude Include="blackjack.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="level-2.h">
+    <ClInclude Include="source.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="level-3.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="final-level.h">
+    <ClInclude Include="banner.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

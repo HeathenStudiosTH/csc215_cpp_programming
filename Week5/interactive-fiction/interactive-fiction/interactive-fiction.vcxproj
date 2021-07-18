@@ -139,19 +139,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="final-level.cpp" />
-    <ClCompile Include="interactive-fiction.cpp" />
-    <ClCompile Include="level-2.cpp" />
-    <ClCompile Include="level-3.cpp" />
-    <ClCompile Include="mission.cpp" />
-    <ClCompile Include="start-game.cpp" />
+    <ClCompile Include="banner.cpp" />
+    <ClCompile Include="blackjack.cpp" />
+    <ClCompile Include="functions.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="source.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="final-level.h" />
-    <ClInclude Include="level-2.h" />
-    <ClInclude Include="level-3.h" />
-    <ClInclude Include="mission.h" />
-    <ClInclude Include="start-game.h" />
+    <ClInclude Include="banner.h" />
+    <ClInclude Include="blackjack.h" />
+    <ClInclude Include="functions.h" />
+    <ClInclude Include="source.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
