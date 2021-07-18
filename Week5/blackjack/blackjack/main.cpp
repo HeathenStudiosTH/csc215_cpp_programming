@@ -4,7 +4,7 @@
 #include <algorithm>
 #include <ctime>
 #include "banner.h"
-#include "classes.h"
+#include "class.h"
 
 using namespace std;
 
